@@ -1,0 +1,11 @@
+tuplex = tuple("index tuple")
+print(tuplex)
+index = tuplex.index("p")
+print(index)
+index = tuplex.index("l")
+print(index)
+index = tuplex.index("e")
+print(index)
+index = tuplex.index("x")
+print(index)
+
